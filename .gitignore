@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TestXAML/.vs/TestXAML/v16
+/TestXAML/TestXAML/bin
+/TestXAML/TestXAML/obj
+/TestXAML/TestXAML/TestXAML.csproj.user
